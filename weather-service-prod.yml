@@ -1,0 +1,6 @@
+server:
+  port: 8089
+info:
+  author: Blabla
+  mail: blabla@gmail.com
+country: Brazil
